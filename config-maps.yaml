@@ -85,4 +85,4 @@ spec:
             valueFrom:
               configMapKeyRef:
                 name: nginx-conf
-                key: nginx-conf
+                key: nginx.conf
